@@ -1,0 +1,23 @@
+body{
+	background-image: url('graphics/BG1.jpg');
+	background-repeat: no-repeat;
+}
+
+p{
+	text-align: center;
+}
+
+.center
+    {
+    text-align:center;
+    margin-top:0px;
+    margin-bottom:0px;
+    padding:0px;
+    }
+	
+.col-md-4{
+background-color:white;
+color: black;
+text-align: center;
+border-color: black;
+}
