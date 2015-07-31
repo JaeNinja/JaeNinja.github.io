@@ -6,7 +6,7 @@
 
 
 body{
-	background-image: url('graphics/BG1.jpg');
+	background-color: white;
 	background-repeat: no-repeat;
 }
 
@@ -29,4 +29,9 @@ color: black;
 text-align: center;
 border-color: black;
 font-family: myFirstFont;
+}
+
+.nav navbar-nav.active{
+background-color: red;
+color: white;
 }
