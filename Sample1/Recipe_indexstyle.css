@@ -1,0 +1,29 @@
+﻿@font-face {
+    font-family: myFirstFont;
+    src: url(riesling.ttf);
+}
+
+body{
+	background-image: url("GoldBg.jpg");
+	background-repeat: no-repeat;
+}
+
+h1{
+	font-size:75pt;
+	color: white;
+	text-align: center;
+	font-family: myFirstFont;
+		
+}
+
+h2{
+	color: white;
+	text-align: center;
+	background: black;
+	}
+
+p{
+	text-align: center;
+	color: white;
+	font-size: 20pt;
+}

@@ -1,0 +1,59 @@
+h1{
+	font-size:22pt;
+	text-decoration:underline;
+	color:#A4A400;
+	text-align:center;
+}
+
+h2{
+	color:#A4A400;
+	background:#F0F0F0;
+	font-family:Futura;
+	text-decoration:underline;
+	letter-spacing: 0.2em; 
+	
+}
+
+p{
+font-family: Georgia;
+}
+
+a{
+	color:#A4A400;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+ul li{
+	list-style-type: none;
+	background: url('http://png-4.findicons.com/files/icons/439/fruity_hearts/48/lemon.png') no-repeat top left;
+	height: 45px;
+	padding-left: 50px;
+}
+ol{
+font-family: Georgia;
+font-size: 11pt;
+color: #404040;
+}
+
+ul{
+font-family: Georgia;
+font-size: 11pt;
+color: #404040;
+
+}
+
+.list{
+	text-indent:50px;
+	padding-left: 0px;
+	position:relative;
+	left:45px;
+	
+}
+
+#img2{
+	width: 400px;
+	height: 400px;
+	
+}
+	
