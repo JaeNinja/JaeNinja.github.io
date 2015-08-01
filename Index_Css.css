@@ -13,6 +13,7 @@ body{
 p{
 	text-align: center;
 	font-family: aubrey;
+	font-size: 14 px;
 }
 
 .center
@@ -31,7 +32,10 @@ border-color: black;
 font-family: myFirstFont;
 }
 
-.nav navbar-nav.active{
-background-color: red;
-color: white;
+iframe{
+align: center;
+}
+
+.contact{
+background-image: url("graphics/BG.jpg");
 }
